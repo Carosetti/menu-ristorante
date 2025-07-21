@@ -24,7 +24,7 @@ export default function MenuPage() {
             height={16}
             className="inline-block"
           />
-          Menù Italiano
+          Menù Italiano 
         </a>
 
         <a
